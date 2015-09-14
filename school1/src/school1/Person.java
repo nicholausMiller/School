@@ -35,13 +35,7 @@ public class Person {
        
    };
   
-   public void setWeight(int _weight){
-       weight = _weight;
-   }
-   public int getWeight()
-   {
-       return(weight);
-   }
+    
    public void setGender(Gender _gender){
        gender = _gender;
    }
